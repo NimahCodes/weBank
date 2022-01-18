@@ -1,2 +1,2 @@
 # weBank
-An online banking system.
+An online banking API.
